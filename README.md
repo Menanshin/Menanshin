@@ -23,13 +23,13 @@
 ![DevOps](https://img.shields.io/badge/DevOps-blue?style=for-the-badge)
 ![Fintech](https://img.shields.io/badge/Financial%20Tech-darkblue?style=for-the-badge)
 
-![DevTools](https://img.shields.io/badge/DevTools-Debugging%20Tools-lightgrey?style=for-the-badge)
+![DevTools](https://img.shields.io/badge/DevTools-1E90FF?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=for-the-badge)
-![UDP/IP](https://img.shields.io/badge/UDP%2FIP-Networking-green?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-Realtime%20Communication-yellow?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-Remote%20Procedure%20Calls-orange?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-98FB98?style=for-the-badge)
+![UDP/IP](https://img.shields.io/badge/UDP%2FIP-green?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-yellow?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-orange?style=for-the-badge)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,12 +40,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FFCC00?style=for-the-badge&logo=testng&logoColor=black)
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-005571?style=for-the-badge&logo=rest&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FFCC00?style=for-the-badge&logo=testng&logoColor=black&label=)
 
 ![Yandex Tank](https://img.shields.io/badge/Yandex%20Tank-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-![Locust](https://img.shields.io/badge/Locust-Load%20Testing-9ACD32?style=for-the-badge&logo=Locust)
+![Locust](https://img.shields.io/badge/Locust-9ACD32?style=for-the-badge&logo=Locust)
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-FF0000?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -65,13 +65,13 @@
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 
-![CI/CD](https://img.shields.io/badge/CI/CD-Continuous%20Integration-blue?style=for-the-badge)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-DevOps-pink?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FF8C00?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![tmux](https://img.shields.io/badge/tmux-Terminal%20Multiplexer-lightblue?style=for-the-badge)
+![tmux](https://img.shields.io/badge/tmux-008080?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-0099CC?style=for-the-badge&logo=nmap&logoColor=white)
 
 
