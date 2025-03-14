@@ -45,7 +45,6 @@
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-005571?style=for-the-badge&logo=rest&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FFCC00?style=for-the-badge&logo=testng&logoColor=black&label=)
 
 ![Yandex Tank](https://img.shields.io/badge/Yandex%20Tank-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
@@ -77,6 +76,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![tmux](https://img.shields.io/badge/tmux-008080?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-0099CC?style=for-the-badge&logo=nmap&logoColor=white)
-
-
 
