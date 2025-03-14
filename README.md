@@ -21,6 +21,7 @@
 ![Scrum](https://img.shields.io/badge/Agile-F0F8FF?style=for-the-badge)
 ![Team Lead](https://img.shields.io/badge/Team%20Lead-DAA520?style=for-the-badge)
 ![Mentor](https://img.shields.io/badge/Mentor-ADD8E6?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-00008B?style=for-the-badge&logo=blockchain&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-blue?style=for-the-badge)
 ![Fintech](https://img.shields.io/badge/Financial%20Tech-darkblue?style=for-the-badge)
@@ -63,9 +64,11 @@
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5733?style=for-the-badge&logo=burp-suite&logoColor=white)
 
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![TON](https://img.shields.io/badge/Toncoin-0088CC?style=for-the-badge&logo=ton&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-FF5F00?style=for-the-badge&logo=ethereum&logoColor=white)
+![TON](https://img.shields.io/badge/Ton-0088CC?style=for-the-badge&logo=ton&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-FF5F00?style=for-the-badge&logo=ton&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![dApp](https://img.shields.io/badge/dApp-FF5F00?style=for-the-badge&logo=ton&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-00008B?style=for-the-badge&logo=blockchain&logoColor=white)
 
 
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
@@ -76,4 +79,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![tmux](https://img.shields.io/badge/tmux-008080?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-0099CC?style=for-the-badge&logo=nmap&logoColor=white)
+
+
+
 
