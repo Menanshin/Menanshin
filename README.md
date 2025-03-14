@@ -21,7 +21,6 @@
 ![Scrum](https://img.shields.io/badge/Agile-F0F8FF?style=for-the-badge)
 ![Team Lead](https://img.shields.io/badge/Team%20Lead-DAA520?style=for-the-badge)
 ![Mentor](https://img.shields.io/badge/Mentor-ADD8E6?style=for-the-badge)
-![Blockchain](https://img.shields.io/badge/Blockchain-00008B?style=for-the-badge&logo=blockchain&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-blue?style=for-the-badge)
 ![Fintech](https://img.shields.io/badge/Financial%20Tech-darkblue?style=for-the-badge)
