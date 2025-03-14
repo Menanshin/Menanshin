@@ -25,7 +25,6 @@
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 
-![DevTools](https://img.shields.io/badge/DevTools-yellow?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-F16822?style=for-the-badge&logo=graphql&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-98FB98?style=for-the-badge)
