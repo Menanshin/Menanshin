@@ -3,16 +3,25 @@
 ![Menanshin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Menanshin&show_icons=true&theme=radical)
 
 
-![Adeptus Mechanicus](https://img.shields.io/badge/Adeptus%20Mechanicus-DC143C?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenrQAAABFUlEQVR42u3VvQ3CQBCF4a+KOARXoIGokHsHBBQQ0kVoQEqZBPAJKDgiD2VhYB1CcvCMbu9g3OeWW4ft+T6PAOFgAazbB2BKAGbgGv6oNSE5D5MaqfOQyBJ1lgMbkDwEY+ziAf8AmX6wDZng/wTjABTkAuYwA81pBP0I8lDADu20iB/tFMAszkAdoMAy58TmEGfpeM+BlmMCmTv5guwqDaTnF9kgPo5TuGec6Jf9FjckgN++jWiPx8AIhfbwF8YlgEkHzWlHV2ItZqAxC9RVEB9FHBXlA/8M/tIBRMl/LcD4prGzxXpjC1cwApzSzTgfH+EA6rGAO5DdEL4ArYgG5R7HEPXxBqNvgL7+noE+5GBvwAAAABJRU5ErkJggg==)
+![Adeptus Mechanicus](https://img.shields.io/badge/Adeptus%20Mechanicus-800000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenrQAAABFUlEQVR42u3VvQ3CQBCF4a+KOARXoIGokHsHBBQQ0kVoQEqZBPAJKDgiD2VhYB1CcvCMbu9g3OeWW4ft+T6PAOFgAazbB2BKAGbgGv6oNSE5D5MaqfOQyBJ1lgMbkDwEY+ziAf8AmX6wDZng/wTjABTkAuYwA81pBP0I8lDADu20iB/tFMAszkAdoMAy58TmEGfpeM+BlmMCmTv5guwqDaTnF9kgPo5TuGec6Jf9FjckgN++jWiPx8AIhfbwF8YlgEkHzWlHV2ItZqAxC9RVEB9FHBXlA/8M/tIBRMl/LcD4prGzxXpjC1cwApzSzTgfH+EA6rGAO5DdEL4ArYgG5R7HEPXxBqNvgL7+noE+5GBvwAAAABJRU5ErkJggg==)
 
-![QA Lead](https://img.shields.io/badge/QA%20Lead-Testing-blue?style=for-the-badge)
-![Project Manager](https://img.shields.io/badge/Project%20Manager-Management-darkblue?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-Agile-red?style=for-the-badge)
-![Team Lead](https://img.shields.io/badge/Team%20Lead-Leadership-orange?style=for-the-badge)
-![Mentor](https://img.shields.io/badge/Mentor-Guidance-green?style=for-the-badge)
+![Mafin](https://img.shields.io/badge/Mafin-FF1493?style=for-the-badge)
+![Tinkoff](https://img.shields.io/badge/Tinkoff-FFFF00?style=for-the-badge)
+![Sber](https://img.shields.io/badge/Sber-008000?style=for-the-badge)
+![VK](https://img.shields.io/badge/VK-00BFFF?style=for-the-badge)
+![J'JO](https://img.shields.io/badge/J'JO-C0C0C0?style=for-the-badge)
+![Wildberries Bank](https://img.shields.io/badge/Wildberries_Bank-800080?style=for-the-badge)
+![Blum](https://img.shields.io/badge/Blum-708090?style=for-the-badge)
+
+
+![QA Lead](https://img.shields.io/badge/QA%20Lead-FFD700?style=for-the-badge)
+![Project Manager](https://img.shields.io/badge/Project%20Manager-00CED1?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Agile-F0F8FF?style=for-the-badge)
+![Team Lead](https://img.shields.io/badge/Team%20Lead-DAA520?style=for-the-badge)
+![Mentor](https://img.shields.io/badge/Mentor-ADD8E6?style=for-the-badge)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge)
-![Fintech](https://img.shields.io/badge/Fintech-Financial%20Tech-darkblue?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-blue?style=for-the-badge)
+![Fintech](https://img.shields.io/badge/Financial%20Tech-darkblue?style=for-the-badge)
 
 ![DevTools](https://img.shields.io/badge/DevTools-Debugging%20Tools-lightgrey?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white)
@@ -49,7 +58,6 @@
 ![SoapUI](https://img.shields.io/badge/SoapUI-0277BD?style=for-the-badge&logo=soapui&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-FF7F50?style=for-the-badge&logo=charlesproxy&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5733?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0099CC?style=for-the-badge&logo=nmap&logoColor=white)
 
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![TON](https://img.shields.io/badge/Toncoin-0088CC?style=for-the-badge&logo=ton&logoColor=white)
@@ -63,6 +71,8 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![tmux](https://img.shields.io/badge/tmux-Terminal%20Multiplexer-lightblue?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-0099CC?style=for-the-badge&logo=nmap&logoColor=white)
 
 
 
