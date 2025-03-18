@@ -3,7 +3,7 @@
 </p>
 
 ![Adeptus Mechanicus](https://img.shields.io/badge/Adeptus%20Mechanicus-800000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenrQAAABFUlEQVR42u3VvQ3CQBCF4a+KOARXoIGokHsHBBQQ0kVoQEqZBPAJKDgiD2VhYB1CcvCMbu9g3OeWW4ft+T6PAOFgAazbB2BKAGbgGv6oNSE5D5MaqfOQyBJ1lgMbkDwEY+ziAf8AmX6wDZng/wTjABTkAuYwA81pBP0I8lDADu20iB/tFMAszkAdoMAy58TmEGfpeM+BlmMCmTv5guwqDaTnF9kgPo5TuGec6Jf9FjckgN++jWiPx8AIhfbwF8YlgEkHzWlHV2ItZqAxC9RVEB9FHBXlA/8M/tIBRMl/LcD4prGzxXpjC1cwApzSzTgfH+EA6rGAO5DdEL4ArYgG5R7HEPXxBqNvgL7+noE+5GBvwAAAABJRU5ErkJggg==)
-[![NOMAD](https://img.shields.io/badge/NOMAD-9400D3?style=for-the-badge&)](https://t.me/menanshin)
+[![NOMAD](https://img.shields.io/badge/DIGITAL%20NOMAD-9400D3?style=for-the-badge&)](https://t.me/menanshin)
 
 ![Mafin](https://img.shields.io/badge/Mafin-FF1493?style=for-the-badge)
 ![Tinkoff](https://img.shields.io/badge/Tinkoff-FFFF00?style=for-the-badge&logo=tinkoff&logoColor=black)
