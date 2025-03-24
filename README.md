@@ -38,7 +38,7 @@
 ![JUnit](https://img.shields.io/badge/JUnit-ED7B00?style=for-the-badge&logo=junit5&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-ED9B00?style=for-the-badge&logo=rest&logoColor=white)
 
-![Yandex Tank](https://img.shields.io/badge/Yandex%20Tank-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
+![Yandex Tank](https://img.shields.io/badge/Yandex%20Tank-FF0000?style=for-the-badge&logo=yandex-cloud&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-ED8B00?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 ![Locust](https://img.shields.io/badge/Locust-3776AB?style=for-the-badge&logo=Locust)
 
@@ -68,6 +68,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FF0000?style=for-the-badge&logo=yandex-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-2E8B57?style=for-the-badge&logo=linux&logoColor=black)
 ![tmux](https://img.shields.io/badge/tmux-008080?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-0099CC?style=for-the-badge&logo=nmap&logoColor=white)
