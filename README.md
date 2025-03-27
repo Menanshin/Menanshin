@@ -68,6 +68,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FF0000?style=for-the-badge&logo=yandex-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-2E8B57?style=for-the-badge&logo=linux&logoColor=black)
 ![tmux](https://img.shields.io/badge/tmux-008080?style=for-the-badge)
