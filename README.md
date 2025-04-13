@@ -9,6 +9,8 @@
 ![J'JO](https://img.shields.io/badge/J'JO-C0C0C0?style=for-the-badge)
 ![Wildberries Bank](https://img.shields.io/badge/Wildberries_Bank-800080?style=for-the-badge&logo=wildberries&logoColor=white)
 ![Blum](https://img.shields.io/badge/Blum-708090?style=for-the-badge)
+![2GIS](https://img.shields.io/badge/2GIS-00B478?style=for-the-badge&logo=2gis&logoColor=white)
+
 
 ![QA Lead](https://img.shields.io/badge/QA%20Lead-FFD700?style=for-the-badge)
 ![Project Manager](https://img.shields.io/badge/Project%20Manager-4682B4?style=for-the-badge&logo=trello&logoColor=white)
