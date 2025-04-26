@@ -60,7 +60,7 @@
 ![Blockchain](https://img.shields.io/badge/Blockchain-00008B?style=for-the-badge&logo=blockchain&logoColor=white)
 
 ![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white)
-![SecOps](https://img.shields.io/badge/SecOps-8B0000?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Security Testing](https://img.shields.io/badge/Security%20Testing-8B0000?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Allure TestOps](https://img.shields.io/badge/Allure_TestOps-3DDC84?style=for-the-badge&logo=allure&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI-FF8C00?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
