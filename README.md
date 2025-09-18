@@ -4,9 +4,7 @@
 [![NOMAD](https://img.shields.io/badge/DIGITAL%20NOMAD-9400D3?style=for-the-badge&)](https://t.me/menanshin)
 
 ![Tinkoff](https://img.shields.io/badge/Tinkoff-FFFF00?style=for-the-badge&logo=tinkoff&logoColor=black)
-![Sber](https://img.shields.io/badge/Sber-008000?style=for-the-badge&logo=sberbank&logoColor=white)
 ![VK](https://img.shields.io/badge/VK-00BFFF?style=for-the-badge)
-![J'JO](https://img.shields.io/badge/J'JO-C0C0C0?style=for-the-badge)
 ![Wildberries Bank](https://img.shields.io/badge/Wildberries_Bank-800080?style=for-the-badge&logo=wildberries&logoColor=white)
 ![Blum](https://img.shields.io/badge/Blum-708090?style=for-the-badge)
 ![2GIS](https://img.shields.io/badge/2GIS-00B478?style=for-the-badge&logo=2gis&logoColor=white)
