@@ -1,0 +1,49 @@
+name: Update language stats
+
+on:
+  schedule:
+    # каждый день в 03:00 UTC (10:00 по Бангкоку)
+    - cron: "0 3 * * *"
+  workflow_dispatch:        # кнопка ручного запуска во вкладке Actions
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_langs.py"
+      - ".github/workflows/update-langs.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Собрать статистику языков
+        env:
+          # PAT со scope repo — чтобы попали и приватные репозитории
+          GH_TOKEN: ${{ secrets.LANG_STATS_TOKEN }}
+          GH_USER: Menanshin
+          MAX_SLICES: "6"
+          MIN_PERCENT: "1.5"
+          INCLUDE_FORKS: "0"
+          # EXCLUDE_REPOS: "sandbox,test-repo"
+          # EXCLUDE_LANGS: "HTML,CSS"
+        run: python scripts/update_langs.py
+
+      - name: Закоммитить изменения
+        run: |
+          git add -A README.md assets
+          if git diff --cached --quiet; then
+            echo "Изменений нет"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: обновлена статистика языков"
+          git push

@@ -2,6 +2,14 @@
 ![Adeptus Mechanicus](https://img.shields.io/badge/Adeptus%20Mechanicus-800000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenrQAAABFUlEQVR42u3VvQ3CQBCF4a+KOARXoIGokHsHBBQQ0kVoQEqZBPAJKDgiD2VhYB1CcvCMbu9g3OeWW4ft+T6PAOFgAazbB2BKAGbgGv6oNSE5D5MaqfOQyBJ1lgMbkDwEY+ziAf8AmX6wDZng/wTjABTkAuYwA81pBP0I8lDADu20iB/tFMAszkAdoMAy58TmEGfpeM+BlmMCmTv5guwqDaTnF9kgPo5TuGec6Jf9FjckgN++jWiPx8AIhfbwF8YlgEkHzWlHV2ItZqAxC9RVEB9FHBXlA/8M/tIBRMl/LcD4prGzxXpjC1cwApzSzTgfH+EA6rGAO5DdEL4ArYgG5R7HEPXxBqNvgL7+noE+5GBvwAAAABJRU5ErkJggg==)
 [![NOMAD](https://img.shields.io/badge/DIGITAL%20NOMAD-9400D3?style=for-the-badge&)](https://t.me/menanshin)
 
+<!-- LANGS:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Menanshin/Menanshin/main/assets/langs-dark.svg?v=11256295f6">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Menanshin/Menanshin/main/assets/langs-light.svg?v=11256295f6">
+  <img alt="Языки в моих репозиториях" src="https://raw.githubusercontent.com/Menanshin/Menanshin/main/assets/langs-light.svg?v=11256295f6" width="468">
+</picture>
+<!-- LANGS:END -->
+
 ![Tinkoff](https://img.shields.io/badge/Tinkoff-FFFF00?style=for-the-badge&logo=tinkoff&logoColor=black)
 ![VK](https://img.shields.io/badge/VK-00BFFF?style=for-the-badge)
 ![Wildberries Bank](https://img.shields.io/badge/Wildberries_Bank-800080?style=for-the-badge&logo=wildberries&logoColor=white)
