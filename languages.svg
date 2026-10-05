@@ -1,0 +1,333 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="620"
+    height="358"
+    viewBox="0 0 620 358"
+>
+    <style>
+        .background {
+            fill: #0d1117;
+        }
+
+        .title {
+            fill: #f0f6fc;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        .language {
+            fill: #c9d1d9;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            font-size: 13px;
+        }
+
+        .percentage {
+            fill: #8b949e;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            font-size: 13px;
+        }
+
+        .bar-background {
+            fill: #21262d;
+        }
+
+        .bar {
+            fill: #58a6ff;
+        }
+    </style>
+
+    <rect
+        width="100%"
+        height="100%"
+        rx="8"
+        class="background"
+    />
+
+    <text
+        x="24"
+        y="30"
+        class="title"
+    >Languages</text>
+
+    
+            <text
+                x="24"
+                y="54"
+                class="language"
+            >Python</text>
+
+            <rect
+                x="150"
+                y="40"
+                width="280"
+                height="10"
+                rx="5"
+                class="bar-background"
+            />
+
+            <rect
+                x="150"
+                y="40"
+                width="223.52"
+                height="10"
+                rx="5"
+                class="bar"
+            />
+
+            <text
+                x="590"
+                y="54"
+                text-anchor="end"
+                class="percentage"
+            >79.8%</text>
+            
+            <text
+                x="24"
+                y="86"
+                class="language"
+            >TypeScript</text>
+
+            <rect
+                x="150"
+                y="72"
+                width="280"
+                height="10"
+                rx="5"
+                class="bar-background"
+            />
+
+            <rect
+                x="150"
+                y="72"
+                width="25.74"
+                height="10"
+                rx="5"
+                class="bar"
+            />
+
+            <text
+                x="590"
+                y="86"
+                text-anchor="end"
+                class="percentage"
+            >9.2%</text>
+            
+            <text
+                x="24"
+                y="118"
+                class="language"
+            >HCL</text>
+
+            <rect
+                x="150"
+                y="104"
+                width="280"
+                height="10"
+                rx="5"
+                class="bar-background"
+            />
+
+            <rect
+                x="150"
+                y="104"
+                width="18.97"
+                height="10"
+                rx="5"
+                class="bar"
+            />
+
+            <text
+                x="590"
+                y="118"
+                text-anchor="end"
+                class="percentage"
+            >6.8%</text>
+            
+            <text
+                x="24"
+                y="150"
+                class="language"
+            >Dockerfile</text>
+
+            <rect
+                x="150"
+                y="136"
+                width="280"
+                height="10"
+                rx="5"
+                class="bar-background"
+            />
+
+            <rect
+                x="150"
+                y="136"
+                width="3.29"
+                height="10"
+                rx="5"
+                class="bar"
+            />
+
+            <text
+                x="590"
+                y="150"
+                text-anchor="end"
+                class="percentage"
+            >1.2%</text>
+            
+            <text
+                x="24"
+                y="182"
+                class="language"
+            >Smarty</text>
+
+            <rect
+                x="150"
+                y="168"
+                width="280"
+                height="10"
+                rx="5"
+                class="bar-background"
+            />
+
+            <rect
+                x="150"
+                y="168"
+                width="2.20"
+                height="10"
+                rx="5"
+                class="bar"
+            />
+
+            <text
+                x="590"
+                y="182"
+                text-anchor="end"
+                class="percentage"
+            >0.8%</text>
+            
+            <text
+                x="24"
+                y="214"
+                class="language"
+            >CSS</text>
+
+            <rect
+                x="150"
+                y="200"
+                width="280"
+                height="10"
+                rx="5"
+                class="bar-background"
+            />
+
+            <rect
+                x="150"
+                y="200"
+                width="2.10"
+                height="10"
+                rx="5"
+                class="bar"
+            />
+
+            <text
+                x="590"
+                y="214"
+                text-anchor="end"
+                class="percentage"
+            >0.8%</text>
+            
+            <text
+                x="24"
+                y="246"
+                class="language"
+            >Go</text>
+
+            <rect
+                x="150"
+                y="232"
+                width="280"
+                height="10"
+                rx="5"
+                class="bar-background"
+            />
+
+            <rect
+                x="150"
+                y="232"
+                width="2.05"
+                height="10"
+                rx="5"
+                class="bar"
+            />
+
+            <text
+                x="590"
+                y="246"
+                text-anchor="end"
+                class="percentage"
+            >0.7%</text>
+            
+            <text
+                x="24"
+                y="278"
+                class="language"
+            >HTML</text>
+
+            <rect
+                x="150"
+                y="264"
+                width="280"
+                height="10"
+                rx="5"
+                class="bar-background"
+            />
+
+            <rect
+                x="150"
+                y="264"
+                width="2.00"
+                height="10"
+                rx="5"
+                class="bar"
+            />
+
+            <text
+                x="590"
+                y="278"
+                text-anchor="end"
+                class="percentage"
+            >0.4%</text>
+            
+            <text
+                x="24"
+                y="310"
+                class="language"
+            >JavaScript</text>
+
+            <rect
+                x="150"
+                y="296"
+                width="280"
+                height="10"
+                rx="5"
+                class="bar-background"
+            />
+
+            <rect
+                x="150"
+                y="296"
+                width="2.00"
+                height="10"
+                rx="5"
+                class="bar"
+            />
+
+            <text
+                x="590"
+                y="310"
+                text-anchor="end"
+                class="percentage"
+            >0.3%</text>
+            
+</svg>
