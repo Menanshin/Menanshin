@@ -1,8 +1,8 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     width="520"
-    height="288"
-    viewBox="0 0 520 288"
+    height="236"
+    viewBox="0 0 520 236"
 >
     <style>
         .background {
@@ -51,7 +51,7 @@
         x="0.5"
         y="0.5"
         width="519"
-        height="287"
+        height="235"
         rx="7"
         class="background"
     />
@@ -67,14 +67,14 @@
                 cx="20"
                 cy="37"
                 r="4"
-                fill="#3572A5"
+                fill="#A97BFF"
             />
 
             <text
                 x="32"
                 y="42"
                 class="language"
-            >Python</text>
+            >Kotlin</text>
 
             <rect
                 x="132"
@@ -88,10 +88,10 @@
             <rect
                 x="132"
                 y="30"
-                width="200.22"
+                width="191.71"
                 height="8"
                 rx="4"
-                fill="#3572A5"
+                fill="#A97BFF"
             />
 
             <text
@@ -99,20 +99,20 @@
                 y="42"
                 text-anchor="end"
                 class="percentage"
-            >80.1%</text>
+            >76.7%</text>
             
             <circle
                 cx="20"
                 cy="63"
                 r="4"
-                fill="#3178C6"
+                fill="#3572A5"
             />
 
             <text
                 x="32"
                 y="68"
                 class="language"
-            >TypeScript</text>
+            >Python</text>
 
             <rect
                 x="132"
@@ -126,10 +126,10 @@
             <rect
                 x="132"
                 y="56"
-                width="22.68"
+                width="29.57"
                 height="8"
                 rx="4"
-                fill="#3178C6"
+                fill="#3572A5"
             />
 
             <text
@@ -137,20 +137,20 @@
                 y="68"
                 text-anchor="end"
                 class="percentage"
-            >9.1%</text>
+            >11.8%</text>
             
             <circle
                 cx="20"
                 cy="89"
                 r="4"
-                fill="#844FBA"
+                fill="#F1E05A"
             />
 
             <text
                 x="32"
                 y="94"
                 class="language"
-            >HCL</text>
+            >JavaScript</text>
 
             <rect
                 x="132"
@@ -164,10 +164,10 @@
             <rect
                 x="132"
                 y="82"
-                width="16.72"
+                width="19.10"
                 height="8"
                 rx="4"
-                fill="#844FBA"
+                fill="#F1E05A"
             />
 
             <text
@@ -175,20 +175,20 @@
                 y="94"
                 text-anchor="end"
                 class="percentage"
-            >6.7%</text>
+            >7.6%</text>
             
             <circle
                 cx="20"
                 cy="115"
                 r="4"
-                fill="#384D54"
+                fill="#89E051"
             />
 
             <text
                 x="32"
                 y="120"
                 class="language"
-            >Dockerfile</text>
+            >Shell</text>
 
             <rect
                 x="132"
@@ -202,10 +202,10 @@
             <rect
                 x="132"
                 y="108"
-                width="3.00"
+                width="3.97"
                 height="8"
                 rx="4"
-                fill="#384D54"
+                fill="#89E051"
             />
 
             <text
@@ -213,20 +213,20 @@
                 y="120"
                 text-anchor="end"
                 class="percentage"
-            >1.2%</text>
+            >1.6%</text>
             
             <circle
                 cx="20"
                 cy="141"
                 r="4"
-                fill="#8B949E"
+                fill="#3178C6"
             />
 
             <text
                 x="32"
                 y="146"
                 class="language"
-            >Smarty</text>
+            >TypeScript</text>
 
             <rect
                 x="132"
@@ -243,7 +243,7 @@
                 width="3.00"
                 height="8"
                 rx="4"
-                fill="#8B949E"
+                fill="#3178C6"
             />
 
             <text
@@ -251,20 +251,20 @@
                 y="146"
                 text-anchor="end"
                 class="percentage"
-            >0.8%</text>
+            >0.9%</text>
             
             <circle
                 cx="20"
                 cy="167"
                 r="4"
-                fill="#563D7C"
+                fill="#844FBA"
             />
 
             <text
                 x="32"
                 y="172"
                 class="language"
-            >CSS</text>
+            >HCL</text>
 
             <rect
                 x="132"
@@ -281,7 +281,7 @@
                 width="3.00"
                 height="8"
                 rx="4"
-                fill="#563D7C"
+                fill="#844FBA"
             />
 
             <text
@@ -295,14 +295,14 @@
                 cx="20"
                 cy="193"
                 r="4"
-                fill="#00ADD8"
+                fill="#384D54"
             />
 
             <text
                 x="32"
                 y="198"
                 class="language"
-            >Go</text>
+            >Dockerfile</text>
 
             <rect
                 x="132"
@@ -319,88 +319,12 @@
                 width="3.00"
                 height="8"
                 rx="4"
-                fill="#00ADD8"
+                fill="#384D54"
             />
 
             <text
                 x="500"
                 y="198"
-                text-anchor="end"
-                class="percentage"
-            >0.7%</text>
-            
-            <circle
-                cx="20"
-                cy="219"
-                r="4"
-                fill="#E34C26"
-            />
-
-            <text
-                x="32"
-                y="224"
-                class="language"
-            >HTML</text>
-
-            <rect
-                x="132"
-                y="212"
-                width="250"
-                height="8"
-                rx="4"
-                class="bar-background"
-            />
-
-            <rect
-                x="132"
-                y="212"
-                width="3.00"
-                height="8"
-                rx="4"
-                fill="#E34C26"
-            />
-
-            <text
-                x="500"
-                y="224"
-                text-anchor="end"
-                class="percentage"
-            >0.3%</text>
-            
-            <circle
-                cx="20"
-                cy="245"
-                r="4"
-                fill="#F1E05A"
-            />
-
-            <text
-                x="32"
-                y="250"
-                class="language"
-            >JavaScript</text>
-
-            <rect
-                x="132"
-                y="238"
-                width="250"
-                height="8"
-                rx="4"
-                class="bar-background"
-            />
-
-            <rect
-                x="132"
-                y="238"
-                width="3.00"
-                height="8"
-                rx="4"
-                fill="#F1E05A"
-            />
-
-            <text
-                x="500"
-                y="250"
                 text-anchor="end"
                 class="percentage"
             >0.3%</text>
