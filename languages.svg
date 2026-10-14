@@ -88,7 +88,7 @@
             <rect
                 x="132"
                 y="30"
-                width="163.96"
+                width="156.35"
                 height="8"
                 rx="4"
                 fill="#A97BFF"
@@ -99,7 +99,7 @@
                 y="42"
                 text-anchor="end"
                 class="percentage"
-            >65.6%</text>
+            >62.5%</text>
             
             <circle
                 cx="20"
@@ -126,7 +126,7 @@
             <rect
                 x="132"
                 y="56"
-                width="43.90"
+                width="42.23"
                 height="8"
                 rx="4"
                 fill="#F1E05A"
@@ -137,7 +137,7 @@
                 y="68"
                 text-anchor="end"
                 class="percentage"
-            >17.6%</text>
+            >16.9%</text>
             
             <circle
                 cx="20"
@@ -164,7 +164,7 @@
             <rect
                 x="132"
                 y="82"
-                width="26.86"
+                width="33.55"
                 height="8"
                 rx="4"
                 fill="#3572A5"
@@ -175,99 +175,99 @@
                 y="94"
                 text-anchor="end"
                 class="percentage"
-            >10.7%</text>
+            >13.4%</text>
             
             <circle
                 cx="20"
                 cy="115"
                 r="4"
-                fill="#563D7C"
-            />
-
-            <text
-                x="32"
-                y="120"
-                class="language"
-            >CSS</text>
-
-            <rect
-                x="132"
-                y="108"
-                width="250"
-                height="8"
-                rx="4"
-                class="bar-background"
-            />
-
-            <rect
-                x="132"
-                y="108"
-                width="4.17"
-                height="8"
-                rx="4"
-                fill="#563D7C"
-            />
-
-            <text
-                x="500"
-                y="120"
-                text-anchor="end"
-                class="percentage"
-            >1.7%</text>
-            
-            <circle
-                cx="20"
-                cy="141"
-                r="4"
-                fill="#89E051"
-            />
-
-            <text
-                x="32"
-                y="146"
-                class="language"
-            >Shell</text>
-
-            <rect
-                x="132"
-                y="134"
-                width="250"
-                height="8"
-                rx="4"
-                class="bar-background"
-            />
-
-            <rect
-                x="132"
-                y="134"
-                width="3.40"
-                height="8"
-                rx="4"
-                fill="#89E051"
-            />
-
-            <text
-                x="500"
-                y="146"
-                text-anchor="end"
-                class="percentage"
-            >1.4%</text>
-            
-            <circle
-                cx="20"
-                cy="167"
-                r="4"
                 fill="#E34C26"
             />
 
             <text
                 x="32"
-                y="172"
+                y="120"
                 class="language"
             >HTML</text>
 
             <rect
                 x="132"
+                y="108"
+                width="250"
+                height="8"
+                rx="4"
+                class="bar-background"
+            />
+
+            <rect
+                x="132"
+                y="108"
+                width="5.71"
+                height="8"
+                rx="4"
+                fill="#E34C26"
+            />
+
+            <text
+                x="500"
+                y="120"
+                text-anchor="end"
+                class="percentage"
+            >2.3%</text>
+            
+            <circle
+                cx="20"
+                cy="141"
+                r="4"
+                fill="#563D7C"
+            />
+
+            <text
+                x="32"
+                y="146"
+                class="language"
+            >CSS</text>
+
+            <rect
+                x="132"
+                y="134"
+                width="250"
+                height="8"
+                rx="4"
+                class="bar-background"
+            />
+
+            <rect
+                x="132"
+                y="134"
+                width="4.06"
+                height="8"
+                rx="4"
+                fill="#563D7C"
+            />
+
+            <text
+                x="500"
+                y="146"
+                text-anchor="end"
+                class="percentage"
+            >1.6%</text>
+            
+            <circle
+                cx="20"
+                cy="167"
+                r="4"
+                fill="#89E051"
+            />
+
+            <text
+                x="32"
+                y="172"
+                class="language"
+            >Shell</text>
+
+            <rect
+                x="132"
                 y="160"
                 width="250"
                 height="8"
@@ -278,10 +278,10 @@
             <rect
                 x="132"
                 y="160"
-                width="3.00"
+                width="3.52"
                 height="8"
                 rx="4"
-                fill="#E34C26"
+                fill="#89E051"
             />
 
             <text
@@ -289,7 +289,7 @@
                 y="172"
                 text-anchor="end"
                 class="percentage"
-            >1.2%</text>
+            >1.4%</text>
             
             <circle
                 cx="20"
@@ -403,6 +403,6 @@
                 y="250"
                 text-anchor="end"
                 class="percentage"
-            >0.4%</text>
+            >0.3%</text>
             
 </svg>
