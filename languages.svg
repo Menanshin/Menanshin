@@ -88,7 +88,7 @@
             <rect
                 x="132"
                 y="30"
-                width="156.35"
+                width="114.24"
                 height="8"
                 rx="4"
                 fill="#A97BFF"
@@ -99,7 +99,7 @@
                 y="42"
                 text-anchor="end"
                 class="percentage"
-            >62.5%</text>
+            >45.7%</text>
             
             <circle
                 cx="20"
@@ -126,7 +126,7 @@
             <rect
                 x="132"
                 y="56"
-                width="42.23"
+                width="72.88"
                 height="8"
                 rx="4"
                 fill="#F1E05A"
@@ -137,7 +137,7 @@
                 y="68"
                 text-anchor="end"
                 class="percentage"
-            >16.9%</text>
+            >29.2%</text>
             
             <circle
                 cx="20"
@@ -164,7 +164,7 @@
             <rect
                 x="132"
                 y="82"
-                width="33.55"
+                width="28.33"
                 height="8"
                 rx="4"
                 fill="#3572A5"
@@ -175,7 +175,7 @@
                 y="94"
                 text-anchor="end"
                 class="percentage"
-            >13.4%</text>
+            >11.3%</text>
             
             <circle
                 cx="20"
@@ -202,7 +202,7 @@
             <rect
                 x="132"
                 y="108"
-                width="5.71"
+                width="23.21"
                 height="8"
                 rx="4"
                 fill="#E34C26"
@@ -213,7 +213,7 @@
                 y="120"
                 text-anchor="end"
                 class="percentage"
-            >2.3%</text>
+            >9.3%</text>
             
             <circle
                 cx="20"
@@ -240,7 +240,7 @@
             <rect
                 x="132"
                 y="134"
-                width="4.06"
+                width="5.21"
                 height="8"
                 rx="4"
                 fill="#563D7C"
@@ -251,7 +251,7 @@
                 y="146"
                 text-anchor="end"
                 class="percentage"
-            >1.6%</text>
+            >2.1%</text>
             
             <circle
                 cx="20"
@@ -278,7 +278,7 @@
             <rect
                 x="132"
                 y="160"
-                width="3.52"
+                width="3.00"
                 height="8"
                 rx="4"
                 fill="#89E051"
@@ -289,7 +289,7 @@
                 y="172"
                 text-anchor="end"
                 class="percentage"
-            >1.4%</text>
+            >1.2%</text>
             
             <circle
                 cx="20"
@@ -327,7 +327,7 @@
                 y="198"
                 text-anchor="end"
                 class="percentage"
-            >0.8%</text>
+            >0.5%</text>
             
             <circle
                 cx="20"
@@ -365,7 +365,7 @@
                 y="224"
                 text-anchor="end"
                 class="percentage"
-            >0.6%</text>
+            >0.4%</text>
             
             <circle
                 cx="20"
@@ -403,6 +403,6 @@
                 y="250"
                 text-anchor="end"
                 class="percentage"
-            >0.3%</text>
+            >0.2%</text>
             
 </svg>
